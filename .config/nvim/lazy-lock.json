@@ -1,0 +1,6 @@
+{
+  "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "nvim-tree.lua": { "branch": "master", "commit": "6b5b36659688767fb9f133bb83024ab1466fe5cd" },
+  "nvim-web-devicons": { "branch": "master", "commit": "4a8369f4c78ef6f6f895f0cec349e48f74330574" }
+}

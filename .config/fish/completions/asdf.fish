@@ -1,0 +1,1 @@
+/Users/hasegawaitsuki_1/.asdf/completions/asdf.fish

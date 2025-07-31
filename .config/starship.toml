@@ -1,0 +1,6 @@
+# [character]モジュールで、プロンプト記号を設定できる
+[character]
+# 直前のコマンド実行結果が成功だった場合
+success_symbol = "[｡.:*･(*´ω｀ *):< ](bold red)[❯ ](bold green)"
+# 直前のコマンド実行結果が失敗だった場合
+error_symbol = "[｡+ﾟ_:(´ཀ`」 ∠): <](bold blue)[❯ ](bold green)"
