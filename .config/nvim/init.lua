@@ -22,6 +22,9 @@ vim.opt.number = true
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 
+vim.keymap.set("i", "jj", "<esc><cmd>w<CR>")
+vim.keymap.set("i", "kk", "<esc><cmd>w<CR>")
+
 vim.keymap.set("n", "<C-h>", "<cmd>bprev<CR>")
 vim.keymap.set("n", "<C-l>", "<cmd>bnext<CR>")
 
